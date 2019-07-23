@@ -1,0 +1,54 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\Users\Edmila hp\Downloads\Nova pasta\audio_codec.csv
+# Generated on: Mon Jul 22 22:45:35 2019
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair
+AUD_ADCDAT,Input,PIN_B6,3,B3_N1,PIN_B6,,,,
+AUD_ADCLRCK,Output,PIN_A6,3,B3_N1,PIN_A6,,,,
+AUD_BCLK,Output,PIN_A4,3,B3_N1,PIN_A4,,,,
+AUD_DACDAT,Output,PIN_B5,3,B3_N1,PIN_B5,,,,
+AUD_DACLRCK,Output,PIN_A5,3,B3_N1,PIN_A5,,,,
+AUD_XCK,Output,PIN_B4,3,B3_N1,PIN_B4,,,,
+clock_50,Input,PIN_L1,2,B2_N1,PIN_L1,,,,
+FPGA_I2C_SCLK,Output,PIN_A3,3,B3_N1,PIN_A3,,,,
+FPGA_I2C_SDAT,Bidir,PIN_B3,3,B3_N1,PIN_B3,,,,
+key[3],Input,PIN_R22,6,B6_N0,PIN_R22,,,,
+key[2],Input,PIN_R21,6,B6_N0,PIN_R21,,,,
+key[1],Input,PIN_T22,6,B6_N0,PIN_T22,,,,
+key[0],Input,PIN_T21,6,B6_N0,PIN_T21,,,,
+ledr[9],Output,PIN_R20,6,B6_N0,PIN_R20,,,,
+ledr[8],Output,PIN_R19,6,B6_N0,PIN_R19,,,,
+ledr[7],Output,PIN_U19,6,B6_N1,PIN_U19,,,,
+ledr[6],Output,PIN_Y19,6,B6_N1,PIN_Y19,,,,
+ledr[5],Output,PIN_T18,6,B6_N1,PIN_T18,,,,
+ledr[4],Output,PIN_V19,6,B6_N1,PIN_V19,,,,
+ledr[3],Output,PIN_Y18,6,B6_N1,PIN_Y18,,,,
+ledr[2],Output,PIN_U18,6,B6_N1,PIN_U18,,,,
+ledr[1],Output,PIN_R18,6,B6_N0,PIN_R18,,,,
+ledr[0],Output,PIN_R17,6,B6_N1,PIN_R17,,,,
+sw[9],Input,PIN_L22,5,B5_N1,PIN_L22,,,,
+sw[8],Input,PIN_L21,5,B5_N1,PIN_L21,,,,
+sw[7],Input,PIN_M22,6,B6_N0,PIN_M22,,,,
+sw[6],Input,PIN_V12,7,B7_N1,PIN_V12,,,,
+sw[5],Input,PIN_W12,7,B7_N1,PIN_W12,,,,
+sw[4],Input,PIN_U12,8,B8_N0,PIN_U12,,,,
+sw[3],Input,PIN_U11,8,B8_N0,PIN_U11,,,,
+sw[2],Input,PIN_M2,1,B1_N0,PIN_M2,,,,
+sw[1],Input,PIN_M1,1,B1_N0,PIN_M1,,,,
+sw[0],Input,PIN_L2,2,B2_N1,PIN_L2,,,,
